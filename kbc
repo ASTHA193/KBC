@@ -12,14 +12,14 @@ int main()
     getch();
     cout<<"\n **************start*************";
     cout<<"\n ques 1. which of the following are part of hardware?";
-    cout<<"\n 1.printer \n 2.memory \n 3.input decices \n 4.ALU";
+    cout<<"\n 1.printer \n 2.memory \n 3.input devices \n 4.ALU";
     cin>>ans;
     if(ans==1)
     {
         sum=sum+100000;
         cout<<"\ntotal amount winned is="<<sum;
         cout<<"\n 2.storage of 1 kb means ?";
-        cout<<"\n 1.1024 \n 2.1000 \n 3.900 \n 4.1050";
+        cout<<"\n 1.1024 bytes \n 2.1000 bytes \n 3.900 bytes \n 4.1050 bytes";
         cin>>ans;
         if(ans==1)
         {
@@ -32,50 +32,50 @@ int main()
             {
                 sum=sum+100000;
                 cout<<"\ntotal amount winned is="<<sum;
-                cout<<"\n 4.which is the fastest and mofre efficient language?";
+                cout<<"\n 4.which is the fastest and more efficient language?";
         cout<<"\n 1.machine level \n 2. artificial intelligence \n 3. high\n 4.assembly";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 5.FORTAN & COBOL is which generation language?";
+            cout<<"\n 5.FORTAN & COBOL are which generation languages?";
         cout<<"\n 1. third \n 2. first\n 3. second \n 4. fourth";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 6.which language is good for processing numerical dat?";
-        cout<<"\n 1. FORTAN \n 2 c \n 3. c++ \n 4. JAVA";
+            cout<<"\n 6.which language is good for processing numerical data?";
+        cout<<"\n 1. FORTAN \n 2. c \n 3. c++ \n 4. JAVA";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
             cout<<"\n 7.which generation language has code instructions writren in enlish like sentences?";
-        cout<<"\n 1.4th \n 2. 1st \n 3 2nd\n 4. 3rd";
+        cout<<"\n 1. 4th \n 2. 1st \n 3. 2nd \n 4. 3rd";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
             cout<<"\n 8.which access level allows data and function to be accessed only by the class in which it is declared?";
-        cout<<"\n 1.p[rivate \n 2 public\n 3. protected\n 4 none";
+        cout<<"\n 1. private \n 2. public\n 3. protected\n 4. none";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
             cout<<"\n 9. which operator have lowest precedence ?";
-        cout<<"\n 1.comma \n 2unary \n 3.sizeof \n 4.assignment";
+        cout<<"\n 1. comma \n 2. unary \n 3. sizeof \n 4. assignment";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 10. which operator cant be used using float  operand ?";
-        cout<<"\n 1. % \n 2. + \n 3.- \n 4. /";
+            cout<<"\n 10. which operator can't be used using float  operand ?";
+        cout<<"\n 1. % \n 2. + \n 3. - \n 4. /";
         cin>>ans;
         if(ans==1)
         {
@@ -88,8 +88,8 @@ int main()
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 12.a statement block consits of how many statements? ";
-        cout<<"\n 1 N  \n 2. 1\n 3 2 \n 4. 5";
+            cout<<"\n 12.A statement block consits of how many statements? ";
+        cout<<"\n 1\n 2. 1\n 3. 2 \n 4. 5";
         cin>>ans;
         if(ans==1)
         {
@@ -102,22 +102,22 @@ int main()
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 14. which among the following is a multi way decision statment? ";
+            cout<<"\n 14. which among the following is a multi way decision statement? ";
         cout<<"\n 1. if else if \n 2. if else \n 3 do while \n 4 for loop";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 15.  the default level is placed in which position in the switch statement ?";
+            cout<<"\n 15.  The default level is placed in which position in the switch statement ?";
         cout<<"\n 1. any where\n 2. beginning \n 3 middle \n 4. end";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 16. the function which is invoked is called?";
-        cout<<"\n 1. called func \n 2. invoked func \n 3. caller func. \n 4, calling func";
+            cout<<"\n 16. The function which is invoked is called?";
+        cout<<"\n 1. called func \n 2. invoked func \n 3. caller func \n 4, calling func";
         cin>>ans;
         if(ans==1)
         {
@@ -146,7 +146,7 @@ int main()
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
             cout<<"\n 20. the default storage class of global variable is? ";
-        cout<<"\n 1. extern \n 2.static \n 3. auto\n 4 . registeer";
+        cout<<"\n 1. extern \n 2.static \n 3. auto\n 4 . register";
         cin>>ans;
         if(ans==1)
         {
@@ -159,14 +159,14 @@ int main()
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 22. the default storage class pf local variable?";
+            cout<<"\n 22. the default storage class of local variable?";
         cout<<"\n 1. auto \n 2.extern \n 3. register \n 4. static";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 23.if an array ois declared asint arr[5][5] how many elements can it store? ";
+            cout<<"\n 23.if an array is declared as int arr[5][5] how many elements can it store? ";
         cout<<"\n 1. 25 \n 2.5 \n 3 10\n 4. none";
         cin>>ans;
         if(ans==1)
@@ -250,14 +250,14 @@ int main()
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 35. for dynimically allocated variables memory is allocated from which memory area?";
+            cout<<"\n 35. for dynamically allocated variables memory is allocated from which memory area?";
         cout<<"\n 1. heap \n 2. stack \n 3. global \n 4. none";
         cin>>ans;
         if(ans==1)
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 36. a structure placrd within the another structure is known as?";
+            cout<<"\n 36. a structure placed within the another structure is known as?";
         cout<<"\n 1. nested structure \n 2. parallel structure \n 3. self-refrential structure \n 4. none";
         cin>>ans;
         if(ans==1)
@@ -285,7 +285,7 @@ int main()
         {
             sum=sum+100000;
             cout<<"\ntotal amount winned is="<<sum;
-            cout<<"\n 40. which of the folowing is the lifetime of a static variable ?";
+            cout<<"\n 40. which of the following is the lifetime of a static variable ?";
         cout<<"\n 1. entire progrqm \n 2. class \n 3. function \n 4. none";
         cin>>ans;
         if(ans==1)
